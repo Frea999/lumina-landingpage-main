@@ -130,7 +130,7 @@ body {
     height: 100vh;
     min-height: 600px;
     margin-top: 0%;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(0,0,0,0.4)), url('https://scontent.fcph5-1.fna.fbcdn.net/v/t1.15752-9/548926132_794108409778613_7385215261180220510_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YmpjOizGa7kQ7kNvwHupAJF&_nc_oc=Adl5gARXZqFeYdgZY2h7wWVWkchWgWWGLVe8UdBn-WUbXWBR4zmZ0knuS5c-i6sugjc&_nc_zt=23&_nc_ht=scontent.fcph5-1.fna&oh=03_Q7cD3QErhgLTMmVB-GvdFF99tk6jFXM3aPvhDEsX5RkX4oGimw&oe=68F1F464');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(0,0,0,0.4)), url('../img/hero-section.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
