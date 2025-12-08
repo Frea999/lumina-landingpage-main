@@ -498,6 +498,19 @@ position: absolute;
 margin-left: 900px;
 }
 
+.overskrift3 {
+  display: flex;
+  justify-content: center;
+      font-size: var(--font-size-medium);
+}
+
+.speaker-rotation {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 75px;
+}
+
 .footers {
     color: var(--white);
     display: flex;
