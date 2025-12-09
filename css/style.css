@@ -296,16 +296,16 @@ section:last-of-type {
     cursor: pointer;
     transition: all 0.3s ease;
     text-decoration: none;
-    display: inline-block;
-    margin-top: 50px;
-    width: 150%;
     align-items: center;
+    position: absolute;
+    left: 10%;
+    top: 1800px;
 }
 
 .tred-btn img {
     width: 30px;
     height: 20px;
-    margin-right: 8%;
+    margin-left: 8%;
     vertical-align: middle;
     
 }
